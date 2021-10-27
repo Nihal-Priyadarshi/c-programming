@@ -4,9 +4,9 @@ void main()
 {
   int a,b,sum;
   clrscr();
-  printf("Enter Two Numbers:");
+  printf("Enter Two Numbers : ");
+  //take input from user
   scanf("%d%d",&a,&b);
-  sum=a+b;
-  printf("Sum of %d and %d = %d",a,b,sum);
+  printf("Sum of %d and %d = %d",a,b,a+b);
   getch();
 }
