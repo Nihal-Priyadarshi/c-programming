@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-  int a,b,sum;
+  int a,b;
   clrscr();
   printf("Enter Two Numbers : ");
   //take input from user
